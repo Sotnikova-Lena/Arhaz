@@ -1,0 +1,13 @@
+header{
+    height: 100px;
+}
+.div_1{
+    display: flex;
+}
+.div_1 img{
+    width: 70%}
+ul img{
+    width: 350px;
+}
+ul{
+    display: flex;}
